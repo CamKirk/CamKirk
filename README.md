@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 def hello():
     print("hello")
 ```
+
+```python
+import pandas as pd
+df  = pd.DataFrame({})
+df.head()
+```
