@@ -15,3 +15,9 @@ function helloInJavaScript(){
 def hello():
     print("hello")
 ```
+
+```python
+import pandas as pd
+df  = pd.DataFrame({})
+df.head()
+```
